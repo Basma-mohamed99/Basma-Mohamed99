@@ -17,18 +17,14 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Basma-mohamed99&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img
+    src="https://streak-stats.demolab.com?user=Basma-mohamed99&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
+    height="150"
+    alt="streak graph"
+  />
 </div>
 
 ###
-
-<img
-data-importer="image"
-align="right"
-height="150"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV4MG14aWZkM2tpbHk0YXVtZG1pZXV3dWZyamxpemhsY2puOHRvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif"
-alt="coding gif"
-/>
 
 <h4 data-importer="text" align="left">
 👋 Hi, I'm Basma Mohamed<br>
@@ -39,11 +35,23 @@ I'm a Computer Science student and an aspiring Mobile Application Developer with
 
 My journey in software development started with learning programming fundamentals and gradually moving into Object-Oriented Programming, Data Structures, Algorithms, and Problem Solving. As I progressed, I became especially interested in mobile development and started focusing on Flutter as my main technology. <br><br>
 
-I enjoy transforming ideas and designs into real applications, paying attention to both user experience and code quality. I'm particularly interested in writing clean, organized, and maintainable code rather than just making an application "work." <br><br>
+I enjoy transforming ideas and designs into real applications, paying attention to both user experience and code quality. I'm particularly interested in writing clean, organized, and maintainable code rather than just making an application "work."
 
-🚀 What I Work With <br><br>
+</h4>
 
-I have been building projects using Flutter and Dart, working with different concepts and tools such as: <br><br>
+###
+
+<img
+data-importer="image"
+align="right"
+height="180"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV4MG14aWZkM2tpbHk0YXVtZG1pZXV3dWZyamxpemhsY2puOHRvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif"
+alt="coding gif"
+/>
+
+<h4 align="left">
+🚀 What I Work With
+<br><br>
 
 🎨 Building responsive and reusable Flutter UIs<br>
 🧩 Dart & Object-Oriented Programming<br>
@@ -62,9 +70,15 @@ I have been building projects using Flutter and Dart, working with different con
 
 ###
 
+<br clear="both">
+
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/basmamohamed2005/?isSelfProfile=true" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="35"
+      alt="linkedin logo"
+    />
   </a>
 </div>
 
