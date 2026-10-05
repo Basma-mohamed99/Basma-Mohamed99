@@ -41,7 +41,7 @@
 <br clear="both">
 
 
-Generates a snake game from a github user contributions graph
+
 
 <picture>
   <source
